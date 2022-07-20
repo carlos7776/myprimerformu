@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.titulo{
+    text-align: center;
+    font-size: 70px;
+    padding: 20px;
+    background-color: rgba(138, 140, 38, 0.486);
+}
+.sub{
+    font-size: 30px;
+    text-align: right;
+    padding: 20px;
+}
+.contenedor{
+    display: grid;
+    align-items: center;
+    align-content: center center;
+    background-color: rgba(138, 140, 38, 0.486);
+    padding: 40px;   
+}
+#celest{
+    background-color: rgba(0, 255, 225, 0.679);
+    font-size: 25px;
+    width: 480px;
+    margin: auto;
+}
+#nomest{
+    margin: auto;
+    background-color: rgba(255, 183, 0, 0.679);
+    font-size: 25px;
+    width: 480px;
+}
+#estedad {
+    margin: auto;
+    background-color: rgba(119, 255, 0, 0.679);
+    font-size: 25px;
+    width: 480px;
+}
+#ciuest {
+    margin: auto;
+    background-color: rgba(0, 0, 255, 0.679);
+    font-size: 25px;
+    width: 480px;
+}
